@@ -6,9 +6,9 @@ import BannerCategories from './BannerCategories'
 const Banner = () => {
   return (
     <Wrapper>
-      <About />
+      {/* <About />
       <Recent />
-      <BannerCategories />
+      <BannerCategories /> */}
     </Wrapper>
   )
 }
