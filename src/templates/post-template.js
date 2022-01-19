@@ -51,11 +51,6 @@ export const query = graphql`
         date(formatString: "MMMM Do, YYYY")
         readTime
         slug
-        embeddedImages {
-          childImageSharp {
-            gatsbyImageData
-          }
-        }
         image {
           childImageSharp {
             gatsbyImageData
@@ -119,3 +114,9 @@ const Wrapper = styled.section`
 `
 
 export default PostTemplate
+
+//  embeddedImages {
+//           childImageSharp {
+//             gatsbyImageData
+//           }
+//         }
