@@ -1,6 +1,6 @@
 # GATSBY MDX BLOG
 
-## Link To The Blog: https://adan206.github.io/my-gat-blog/
+View live blog [here](https://adan206.github.io/my-gat-blog/).
 
 ## Initially Recorded with V2
 
