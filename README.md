@@ -1,5 +1,7 @@
 # GATSBY MDX BLOG
 
+View live blog [here](https://adan206.github.io/my-gat-blog/).
+
 ## Initially Recorded with V2
 
 #### Changes
