@@ -1,7 +1,7 @@
 # GATSBY MDX BLOG
 
 View live blog [here](https://adan206.github.io/my-gat-blog/).
-* because modern blogs need
+* because modern blogs need modern 
 
 ## Initially Recorded with V2
 
